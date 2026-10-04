@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel><title>Iris</title><link>https://github.com/lucasaarch/Iris-AI/releases</link><description>Iris updates</description><language>en</language>
+    <item><title>Version 1.1.0-beta.1</title><pubDate>Sun, 04 Oct 2026 09:00:29 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>7</sparkle:version><sparkle:shortVersionString>1.1.0-beta.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.1/Iris-1.1.0-beta.1.zip" length="17423146" type="application/octet-stream" sparkle:edSignature="dGxx/NFcoBtuhoV6BlbAQnu5IIGu71Y5h6UcUgSZz2LuogYtQ/5b/it78oYkmp8MV2hgWhYoTT0h2hjxesd1Cg==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.1
+
+## What's new
+
+- Choose English, Brazilian Portuguese or the system language in Settings.
+- Find accounts, voice, integrations, privacy and app information in dedicated Settings tabs.
+- Start and end calls with Iris from the composer, and type messages during a call.
+- Keep completed calls and their context in the conversation history.
+- Activate an Iris license or start your own seven-day free trial.
+- Opt into beta updates in Settings and read release notes in English or Portuguese.
+
+## Improvements
+
+- Copy and paste workbench objects with their properties, anchored at the pointer.
+- Add terminals, portals, text and attachments from the workbench context menu.
+- Use Tavily search guidance focused on sources, evidence and citations.
+
+## Beta notes
+
+- This is a preview release and may contain bugs.
+- Experimental onboarding and drawing tools remain disabled in this Release build; text objects remain available.
+- This beta uses the same local data as the stable app.</description><description sparkle:format="markdown" xml:lang="pt-BR"># Iris 1.1.0-beta.1
+
+## Novidades
+
+- Escolha inglês, português do Brasil ou o idioma do sistema em Ajustes.
+- Encontre contas, voz, integrações, privacidade e informações do app em abas dedicadas de Ajustes.
+- Inicie e encerre ligações com a Iris pelo composer e envie mensagens escritas durante a ligação.
+- Mantenha as ligações encerradas e seu contexto no histórico da conversa.
+- Ative uma licença da Iris ou inicie seu teste grátis próprio de sete dias.
+- Ative as atualizações beta em Ajustes e leia as notas de versão em inglês ou português.
+
+## Melhorias
+
+- Copie e cole objetos da workbench com suas propriedades, usando a posição do ponteiro como âncora.
+- Adicione terminais, portais, textos e anexos pelo menu de contexto da workbench.
+- Use orientações de pesquisa da Tavily focadas em fontes, evidências e citações.
+
+## Sobre esta beta
+
+- Esta é uma versão de prévia e pode conter falhas.
+- A apresentação inicial e as ferramentas experimentais de desenho continuam desativadas neste build Release; objetos de texto permanecem disponíveis.
+- Esta beta usa os mesmos dados locais do app estável.</description><sparkle:fullReleaseNotesLink>https://github.com/lucasaarch/Iris-AI/releases</sparkle:fullReleaseNotesLink></item>
+  <item><title>Version 1.0</title><pubDate>Sun, 04 Oct 2026 04:08:35 GMT</pubDate><sparkle:version>1.0</sparkle:version><sparkle:shortVersionString>1.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.0/Iris-1.0.zip" length="17258446" type="application/octet-stream" sparkle:edSignature="lTYGQ9r0bCfE3vW49NrnNt5XMRU4IEmX3CpGbASs3plUDo7IV/nhK8t3viBBtGCXf4KlYZNrO/bytWqhQ3TMBQ==" /></item>
+  </channel>
+</rss>
