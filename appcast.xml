@@ -1,7 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel><title>Iris</title><link>https://github.com/lucasaarch/Iris-AI/releases</link><description>Iris updates</description><language>en</language>
-    <item><title>Version 1.1.0-beta.2</title><pubDate>Tue, 13 Oct 2026 00:45:18 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>8</sparkle:version><sparkle:shortVersionString>1.1.0-beta.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.2/Iris-1.1.0-beta.2.zip" length="22717333" type="application/octet-stream" sparkle:edSignature="wdc9CzBqn/zUOsoaltdrZcBqdMNXKIStuiEEHys8EvMEH1zxdDAoc01vooNyvMUY64pA2f7Wws1SSBUT78DACA==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.2
+    <item><title>Version 1.1.0-beta.2</title><pubDate>Tue, 13 Oct 2026 00:56:28 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>9</sparkle:version><sparkle:shortVersionString>1.1.0-beta.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.2/Iris-1.1.0-beta.2.zip" length="22718288" type="application/octet-stream" sparkle:edSignature="7TKd5/WwtEz+rbGOt1Y8nLFEQew6nwsl4w2aHMFy7trEa08X1sSVapMovi+BY846kPDhRyLi1DQdl4lSyyKJDw==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.2
+
+## New features
+
+- Connect MCP servers over STDIO or Streamable HTTP and configure arguments, environment variables and headers in dedicated forms.
+- Authorize GitHub MCP with a device code without manually configuring access tokens.
+- Connect compatible servers with OAuth and Iris branding during authorization.
+- Use Gemini Live and configure each provider's models and voices separately.
+
+## Improvements
+
+- Ensures memory and skill storage creates its lock directory for in-memory containers too.
+- Fixes incompatible tool schemas that interrupted Gemini Live connections.
+- Preserves server settings and credentials when switching MCP transports.
+- Improves settings organization, account state and Portuguese and English translations.
+- Separates presentation and services into independent modules while retaining existing local data.
+
+## About this beta
+
+- This is a prerelease and may contain issues.
+- Uses the same local data, macOS Keychain services and license as the stable app.</description><description sparkle:format="markdown" xml:lang="pt-BR"># Iris 1.1.0-beta.2
+
+## Novidades
+
+- Conecte servidores MCP por STDIO ou HTTP com Streaming e configure argumentos, variáveis e cabeçalhos em formulários dedicados.
+- Autorize o MCP do GitHub com código de dispositivo, sem configurar tokens manualmente.
+- Conecte servidores compatíveis por OAuth, com a identidade visual da Iris na autorização.
+- Use Gemini Live e configure modelos e vozes de cada provedor separadamente.
+
+## Melhorias
+
+- Garante a criação da pasta de lock das memórias e skills também nos containers em memória.
+- Corrige schemas de ferramentas incompatíveis que interrompiam a conexão Gemini Live.
+- Preserva configurações e credenciais ao alternar o transporte dos servidores MCP.
+- Melhora a organização dos ajustes, o estado das contas e as traduções em português e inglês.
+- Separa apresentação e serviços em módulos independentes, mantendo os dados locais existentes.
+
+## Sobre esta beta
+
+- Esta é uma pré-release e pode conter falhas.
+- Usa os mesmos dados locais, serviços do Chaves do macOS e licença da versão estável.</description><sparkle:fullReleaseNotesLink>https://github.com/lucasaarch/Iris-AI/releases</sparkle:fullReleaseNotesLink></item>
+  <item><title>Version 1.1.0-beta.2</title><pubDate>Tue, 13 Oct 2026 00:45:18 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>8</sparkle:version><sparkle:shortVersionString>1.1.0-beta.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.2/Iris-1.1.0-beta.2.zip" length="22717333" type="application/octet-stream" sparkle:edSignature="wdc9CzBqn/zUOsoaltdrZcBqdMNXKIStuiEEHys8EvMEH1zxdDAoc01vooNyvMUY64pA2f7Wws1SSBUT78DACA==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.2
 
 ## New features
 
