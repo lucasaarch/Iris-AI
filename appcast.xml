@@ -1,7 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel><title>Iris</title><link>https://github.com/lucasaarch/Iris-AI/releases</link><description>Iris updates</description><language>en</language>
-    <item><title>Version 1.1.0-beta.2</title><pubDate>Tue, 13 Oct 2026 00:56:28 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>9</sparkle:version><sparkle:shortVersionString>1.1.0-beta.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.2/Iris-1.1.0-beta.2.zip" length="22718288" type="application/octet-stream" sparkle:edSignature="7TKd5/WwtEz+rbGOt1Y8nLFEQew6nwsl4w2aHMFy7trEa08X1sSVapMovi+BY846kPDhRyLi1DQdl4lSyyKJDw==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.2
+    <item><title>Version 1.1.0-beta.3</title><pubDate>Tue, 13 Oct 2026 13:34:09 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>10</sparkle:version><sparkle:shortVersionString>1.1.0-beta.3</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.3/Iris-1.1.0-beta.3.zip" length="23022942" type="application/octet-stream" sparkle:edSignature="1bAoIm470H/EXh17/rs2k6VGOlMalnIxeB/gkp91gYR2IFQkd0wUrUnwoCnhwkwaUMJQX+t/SkyQiwbce/QMBQ==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.3
+
+## What's new
+
+- Open projects in the Workbench with a file tree, tabs and a lightweight native code editor.
+- Edit and explicitly save UTF-8 files with syntax highlighting, line numbers and native search.
+- Attach files or selected code to chat and choose the active project for each task.
+- Review Iris edits in compact chat cards and a dedicated changes panel.
+- Undo tracked file edits when the files still match the recorded changes.
+- Follow the current file action and see task progress and cancellation summaries.
+
+## Fixes
+
+- Preserves drafts, cursor position and scrolling during saves and external reloads.
+- Detects external changes and deleted files without silently replacing user edits.
+- Preserves file permissions, UTF-8 BOM and existing line endings when saving.
+- Keeps completed changes visible after partial file-operation failures.
+
+## About this beta
+
+- This is a prerelease and may contain issues.
+- Undo covers tracked file-tool edits; terminal commands and external edits are not reversible through this feature.
+- Existing local conversations, OAuth connections and macOS Keychain credentials are preserved.</description><description sparkle:format="markdown" xml:lang="pt-BR"># Iris 1.1.0-beta.3
+
+## Novidades
+
+- Abra projetos na Workbench com árvore de arquivos, abas e um editor nativo leve de código.
+- Edite e salve explicitamente arquivos UTF-8 com realce de sintaxe, números de linha e busca nativa.
+- Anexe arquivos ou trechos de código ao chat e escolha o projeto ativo de cada tarefa.
+- Revise as edições da Iris em cards compactos no chat e em um painel dedicado de alterações.
+- Desfaça edições rastreadas quando os arquivos ainda corresponderem às alterações registradas.
+- Acompanhe o arquivo da ação atual e veja o progresso da tarefa e o resumo ao cancelar.
+
+## Correções
+
+- Preserva rascunhos, posição do cursor e rolagem durante salvamentos e recargas externas.
+- Detecta mudanças externas e arquivos excluídos sem substituir silenciosamente as edições do usuário.
+- Preserva permissões, BOM UTF-8 e quebras de linha existentes ao salvar.
+- Mantém as alterações concluídas visíveis após falhas parciais nas operações de arquivo.
+
+## Sobre esta beta
+
+- Esta é uma pré-release e pode conter problemas.
+- Desfazer cobre edições rastreadas pelas ferramentas de arquivo; comandos de terminal e edições externas não são reversíveis por esse recurso.
+- Conversas locais, conexões OAuth e credenciais nas Chaves do macOS existentes são preservadas.</description><sparkle:fullReleaseNotesLink>https://github.com/lucasaarch/Iris-AI/releases</sparkle:fullReleaseNotesLink></item>
+  <item><title>Version 1.1.0-beta.2</title><pubDate>Tue, 13 Oct 2026 00:56:28 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>9</sparkle:version><sparkle:shortVersionString>1.1.0-beta.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.2/Iris-1.1.0-beta.2.zip" length="22718288" type="application/octet-stream" sparkle:edSignature="7TKd5/WwtEz+rbGOt1Y8nLFEQew6nwsl4w2aHMFy7trEa08X1sSVapMovi+BY846kPDhRyLi1DQdl4lSyyKJDw==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.2
 
 ## New features
 
