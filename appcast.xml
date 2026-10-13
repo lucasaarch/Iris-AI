@@ -1,7 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel><title>Iris</title><link>https://github.com/lucasaarch/Iris-AI/releases</link><description>Iris updates</description><language>en</language>
-    <item><title>Version 1.1.0-beta.3</title><pubDate>Tue, 13 Oct 2026 13:34:09 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>10</sparkle:version><sparkle:shortVersionString>1.1.0-beta.3</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.3/Iris-1.1.0-beta.3.zip" length="23022942" type="application/octet-stream" sparkle:edSignature="1bAoIm470H/EXh17/rs2k6VGOlMalnIxeB/gkp91gYR2IFQkd0wUrUnwoCnhwkwaUMJQX+t/SkyQiwbce/QMBQ==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.3
+    <item><title>Version 1.1.0-beta.4</title><pubDate>Tue, 13 Oct 2026 17:46:50 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>11</sparkle:version><sparkle:shortVersionString>1.1.0-beta.4</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.4/Iris-1.1.0-beta.4.zip" length="23023523" type="application/octet-stream" sparkle:edSignature="F0jIAqARLDJROOOHC3IgrSM9ndksArZ5Ilw0W4L6AmGprfJyQ+DE26X2anycom8hyE7dutJAzSCFtW04cs4UDw==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.4
+
+## Fixes
+
+- Opens directly into the app when a previously verified license or an unexpired trial is stored locally, while revalidating access in the background.
+- Keeps explicit license revocation and trial expiration enforced during use.
+- Checks for updates in the background at app launch when automatic updates are enabled, respecting the selected stable or beta channel.
+- Preserves existing local data, license storage and update preferences.
+
+## About this beta
+
+- This is a prerelease and may contain issues.
+- Includes the programming Workbench and guarded file-change review introduced in beta.3.</description><description sparkle:format="markdown" xml:lang="pt-BR"># Iris 1.1.0-beta.4
+
+## Correções
+
+- Abre diretamente no app quando há uma licença validada anteriormente ou um teste ainda válido salvo localmente, enquanto revalida o acesso em segundo plano.
+- Mantém o bloqueio por revogação explícita da licença e expiração do teste durante o uso.
+- Verifica atualizações em segundo plano ao iniciar quando as atualizações automáticas estão habilitadas, respeitando o canal estável ou beta selecionado.
+- Preserva os dados locais, o armazenamento da licença e as preferências de atualização existentes.
+
+## Sobre esta beta
+
+- Esta é uma pré-release e pode conter problemas.
+- Inclui a Workbench de programação e a revisão segura de alterações em arquivos introduzidas na beta.3.</description><sparkle:fullReleaseNotesLink>https://github.com/lucasaarch/Iris-AI/releases</sparkle:fullReleaseNotesLink></item>
+  <item><title>Version 1.1.0-beta.3</title><pubDate>Tue, 13 Oct 2026 13:34:09 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>10</sparkle:version><sparkle:shortVersionString>1.1.0-beta.3</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.3/Iris-1.1.0-beta.3.zip" length="23022942" type="application/octet-stream" sparkle:edSignature="1bAoIm470H/EXh17/rs2k6VGOlMalnIxeB/gkp91gYR2IFQkd0wUrUnwoCnhwkwaUMJQX+t/SkyQiwbce/QMBQ==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.3
 
 ## What's new
 
