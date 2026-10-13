@@ -1,7 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel><title>Iris</title><link>https://github.com/lucasaarch/Iris-AI/releases</link><description>Iris updates</description><language>en</language>
-    <item><title>Version 1.1.0-beta.4</title><pubDate>Tue, 13 Oct 2026 17:46:50 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>11</sparkle:version><sparkle:shortVersionString>1.1.0-beta.4</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.4/Iris-1.1.0-beta.4.zip" length="23023523" type="application/octet-stream" sparkle:edSignature="F0jIAqARLDJROOOHC3IgrSM9ndksArZ5Ilw0W4L6AmGprfJyQ+DE26X2anycom8hyE7dutJAzSCFtW04cs4UDw==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.4
+    <item><title>Version 1.1.0-beta.5</title><pubDate>Tue, 13 Oct 2026 21:36:34 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>12</sparkle:version><sparkle:shortVersionString>1.1.0-beta.5</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.5/Iris-1.1.0-beta.5.zip" length="23029914" type="application/octet-stream" sparkle:edSignature="XPN+OyWdaSpDW3NAcbaWi0bvC4GvodIRPNXTrxreaLpUpgeqzr8YredlBSkVGyP6E/lqqaLiqzgvDO1/q+yjAQ==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.5
+
+## Improvements
+
+- Reduces repeated canvas serialization while moving or resizing panels. The final layout is saved when the gesture ends, with deferred and shutdown safeguards.
+- Separates camera movement from project, review, browser, terminal and attachment content updates while retaining their existing sessions and state.
+- Prepares file-tree rows when directory contents, expansion or Git file status changes instead of rebuilding them during unrelated updates.
+- Preserves project drafts and existing local storage formats.
+
+## About this beta
+
+- This is a prerelease and may contain issues.
+- These changes are intended to improve Workbench responsiveness; the actual improvement still needs to be measured on the installed app.</description><description sparkle:format="markdown" xml:lang="pt-BR"># Iris 1.1.0-beta.5
+
+## Melhorias
+
+- Reduz a serialização repetida do canvas ao mover ou redimensionar painéis. O layout final é salvo ao terminar o gesto, com proteção adiada e ao fechar o app.
+- Separa o movimento da câmera das atualizações de conteúdo de projeto, revisão, browser, terminal e anexos, mantendo as sessões e o estado existentes.
+- Prepara as linhas da árvore quando conteúdo de pastas, expansão ou status Git mudam, em vez de reconstruí-las em atualizações sem relação com a árvore.
+- Preserva os rascunhos dos projetos e os formatos de armazenamento local existentes.
+
+## Sobre esta beta
+
+- Esta é uma pré-release e pode conter problemas.
+- Estas mudanças buscam melhorar a fluidez da Workbench; o ganho real ainda precisa ser medido no app instalado.</description><sparkle:fullReleaseNotesLink>https://github.com/lucasaarch/Iris-AI/releases</sparkle:fullReleaseNotesLink></item>
+  <item><title>Version 1.1.0-beta.4</title><pubDate>Tue, 13 Oct 2026 17:46:50 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>11</sparkle:version><sparkle:shortVersionString>1.1.0-beta.4</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.4/Iris-1.1.0-beta.4.zip" length="23023523" type="application/octet-stream" sparkle:edSignature="F0jIAqARLDJROOOHC3IgrSM9ndksArZ5Ilw0W4L6AmGprfJyQ+DE26X2anycom8hyE7dutJAzSCFtW04cs4UDw==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.4
 
 ## Fixes
 
