@@ -1,7 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel><title>Iris</title><link>https://github.com/lucasaarch/Iris-AI/releases</link><description>Iris updates</description><language>en</language>
-    <item><title>Version 1.1.0-beta.5</title><pubDate>Tue, 13 Oct 2026 21:36:34 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>12</sparkle:version><sparkle:shortVersionString>1.1.0-beta.5</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.5/Iris-1.1.0-beta.5.zip" length="23029914" type="application/octet-stream" sparkle:edSignature="XPN+OyWdaSpDW3NAcbaWi0bvC4GvodIRPNXTrxreaLpUpgeqzr8YredlBSkVGyP6E/lqqaLiqzgvDO1/q+yjAQ==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.5
+    <item><title>Version 1.1.0-beta.6</title><pubDate>Wed, 14 Oct 2026 01:01:14 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>13</sparkle:version><sparkle:shortVersionString>1.1.0-beta.6</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.6/Iris-1.1.0-beta.6.zip" length="23036361" type="application/octet-stream" sparkle:edSignature="GhDGaUNSUMOVZRHutMK9nldamgF+HC5FDkqewNOsbltNWgnB5/NoQPamVLMEe5Wk9xnhbnkrEsr1L17w8TjqBQ==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.6
+
+## Improvements
+
+- Isolates camera state to reduce Workbench content updates during pan and zoom.
+- Applies movement and scale to the object layer, keeping selection, dragging and resizing aligned.
+- Preserves panel state, drafts and existing camera preferences.
+
+## About this beta
+
+- This is a prerelease and may contain issues.
+- These changes aim to improve Workbench responsiveness; the actual gain still needs to be measured in the installed app.</description><description sparkle:format="markdown" xml:lang="pt-BR"># Iris 1.1.0-beta.6
+
+## Melhorias
+
+- Isola o estado da câmera para reduzir atualizações do conteúdo da Workbench durante pan e zoom.
+- Aplica movimento e escala à camada de objetos, mantendo seleção, arraste e redimensionamento alinhados.
+- Preserva o estado dos painéis, os rascunhos e as preferências existentes da câmera.
+
+## Sobre esta beta
+
+- Esta é uma pré-release e pode conter problemas.
+- Estas mudanças buscam melhorar a fluidez da Workbench; o ganho real ainda precisa ser medido no app instalado.</description><sparkle:fullReleaseNotesLink>https://github.com/lucasaarch/Iris-AI/releases</sparkle:fullReleaseNotesLink></item>
+  <item><title>Version 1.1.0-beta.5</title><pubDate>Tue, 13 Oct 2026 21:36:34 GMT</pubDate><sparkle:channel>beta</sparkle:channel><sparkle:version>12</sparkle:version><sparkle:shortVersionString>1.1.0-beta.5</sparkle:shortVersionString><sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/lucasaarch/Iris-AI/releases/download/v1.1.0-beta.5/Iris-1.1.0-beta.5.zip" length="23029914" type="application/octet-stream" sparkle:edSignature="XPN+OyWdaSpDW3NAcbaWi0bvC4GvodIRPNXTrxreaLpUpgeqzr8YredlBSkVGyP6E/lqqaLiqzgvDO1/q+yjAQ==" /><description sparkle:format="markdown" xml:lang="en"># Iris 1.1.0-beta.5
 
 ## Improvements
 
